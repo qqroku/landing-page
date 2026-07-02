@@ -121,10 +121,12 @@
 }
 
 .information-content-container {
+    border: 1px solid black;
     display: flex;
     flex-direction: row;
-    align-items: center;
-    justify-content: center;
+    /* align-items: center;
+    justify-content: center; */
+    column-gap: 20px;
 }
 
 .information-content {
@@ -134,11 +136,14 @@
     justify-content: center;
     align-items: center;
     max-width: 300px;
-    height: auto;
 }
 
 .information-image-container {
     width: 100%;
     height: 200px;
     border: 1px solid black;
+}
+
+.information-details {
+    height: 60px;
 }
