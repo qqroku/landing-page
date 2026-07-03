@@ -196,11 +196,10 @@ body {
     /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
-    padding: 15px;
     justify-content: center;
     align-items: center;
     row-gap: 15px;
-    max-width: 600px;
+    max-width: 650px;
 }
 
 .testimonial p {
