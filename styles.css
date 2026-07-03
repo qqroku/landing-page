@@ -261,3 +261,16 @@ body {
     border-radius: 5px;
     cursor: pointer;
 }
+
+/* Footer Section */
+
+.footer {
+    background-color: #1f2937;
+    padding: 20px 0;
+}
+
+.footer p {
+    text-align: center;
+    color: #ffffff;
+    font-size: 18px;
+}
