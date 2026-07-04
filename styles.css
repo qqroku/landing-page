@@ -75,7 +75,7 @@ body {
 .hero-details {
     /* border: 1px solid red; */
     padding: 25px;
-    flex: 1;
+    /* flex: 1; */
     color: #f9faf8;
     max-width: 600px;
 }
